@@ -2,38 +2,74 @@ html, body {
   height: 100%;
   width: 100%;
 }
-
-texte{
-  color: #ffff;
-  background-image : https://hts-consulting.com/wp-content/uploads/2016/09/hec.png;
+.titre
+{color:#23349e}
+.titre
+{
+  background-color:#ffffff;
+  font-family: Verdana, Arial, Helvetica, sans-serif;}
+.image
+hugo {background-color: #ffffff;
+  color: #23349e;
 }
-
-
-body {
-background-image:url(https://www.pixelstalk.net/plain-wallpaper-hd/);
-}
-table td {
-height: 100px;
-width: 100px;
-border: 1px solid #ffffff;
-vertical-align:top;
-text-align:center;
-}
-
-<div style="position:relative; height:20px;
-width:2px; 
-background:url(https://image.freepik.com/icones-gratuites/adresse-fleche-de-retour_318-30141.jpg) 0 0 no-repeat;">
-<a style="position:absolute; top:2px; left:2px; width:20px; height:20px;" title="https://hec.tortank46.repl.co" alt="https://hec.tortank46.repl.co" href="https://mediumorchidsuburbanbrackets.dracaufeu.repl.co/" target="_self"></a></div>
-
-
-
-
-
-
-
-
-
-
-
+hugoo{
+  color:white
   
+}
+<div style="position:relative; height:915px; width:1600px; background:url(https://www.welovebuzz.com/wp-content/uploads/2016/04/grad1.jpg) 0 0 no-repeat;"><a style="position:absolute; top:0px; left:2px; width:1181px; height:915px;" title="https://hec.tortank46.re
+huugo
+{color:blue}
+table td {
+ height: 5px;
+ width: 500px;
+ border: 5px solid white;
+ vertical-align:top;
+ text-align:center;
+}
+  huggo{
+ background: #67BE4B;
+}
+#container{
+ width:400px;
+ margin:0 auto;
+ margin-top:10%;
+}
+
+form {
+ width:100%;
+ padding: 30px;
+ border: 1px solid #f1f1f1;
+ background: #fff;
+ box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+#container h1{
+ width: 38%;
+ margin: 0 auto;
+ padding-bottom: 10px;
+}
+
+input[type=text], input[type=password] {
+ width: 100%;
+ padding: 12px 20px;
+ margin: 8px 0;
+ display: inline-block;
+ border: 1px solid #ccc;
+ box-sizing: border-box;
+}
+
+input[type=submit] {
+ background-color: #53af57;
+ color: white;
+ padding: 14px 20px;
+ margin: 8px 0;
+ border: none;
+ cursor: pointer;
+ width: 100%;
+}
+input[type=submit]:hover {
+ background-color: white;
+ color: #53af57;
+ border: 1px solid #53af57;
+}
+
 
